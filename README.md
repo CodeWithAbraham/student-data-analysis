@@ -1,2 +1,5 @@
-# student-data-analysis
-A Python-based data analysis project that explores student performance metrics. The project involves cleaning and transforming raw data, creating new features like engagement and attendance levels, analyzing GPA trends, and exporting the results to Excel for reporting.
+## Project Summary
+This project analyzes a student performance dataset to explore how engagement and attendance levels affect GPA. 
+Using Python and pandas, the dataset was cleaned, processed, and analyzed to calculate key metrics such as 
+average GPA by engagement level and attendance trends. Results revealed that higher engagement is associated 
+with better academic performance. The processed data and summary were exported to `output.xlsx`.
