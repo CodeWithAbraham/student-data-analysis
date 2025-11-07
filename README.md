@@ -1,5 +1,3 @@
 ## Project Summary
-This project analyzes a student performance dataset to explore how engagement and attendance levels affect GPA. 
-Using Python and pandas, the dataset was cleaned, processed, and analyzed to calculate key metrics such as 
-average GPA by engagement level and attendance trends. Results revealed that higher engagement is associated 
-with better academic performance. The processed data and summary were exported to `output.xlsx`.
+This project analyzes student performance data to examine how engagement and attendance relate to GPA. Using Pandas for data processing and NumPy for numerical analysis, new features were created to categorize engagement and attendance levels. The results show that students with higher engagement and better attendance tend to achieve stronger GPAs. The cleaned and processed dataset was exported to output.xlsx.
+
